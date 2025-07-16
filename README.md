@@ -1,6 +1,6 @@
 # Hi, I'm Daniel F Stenseth
 
-I'm a master's student in Cybernetics at NTNU, passionate about software development, AI and Robotics.
+I study Cybernetics and Robotics at NTNU, currently on my third year of an integrated Master's degree (Bachelors and Masters over the course of 5 years), passionate about software development, AI and Robotics.
 
 ---
 
@@ -29,7 +29,7 @@ I'm a master's student in Cybernetics at NTNU, passionate about software develop
 
 ## How to reach me
 
-- LinkedIn: [linkedin.com/in/danielstenseth](https://linkedin.com/in/danielstenseth)   
+- LinkedIn: [linkedin.com/in/danielstenseth](www.linkedin.com/in/daniel-fosli-stenseth-158024322)   
 
 ---
 
