@@ -13,9 +13,9 @@ I study Cybernetics and Robotics at NTNU, currently on my third year of an integ
 
 ## Currently learning
 
-- Deepening my knowledge of large language models
+- Deepening my knowledge of large language models and applying them to solve real-world problems
+- Machine learning and Reinforcement learning
 - Programming effectively
-- Automation
 
 ---
 
