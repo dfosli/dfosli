@@ -29,7 +29,7 @@ I study Cybernetics and Robotics at NTNU, currently on my third year of an integ
 
 ## How to reach me
 
-- LinkedIn: [linkedin.com/in/danielstenseth](www.linkedin.com/in/daniel-fosli-stenseth-158024322)   
+- LinkedIn: [linkedin.com/in/danielstenseth](https:\\www.linkedin.com/in/daniel-fosli-stenseth-158024322)   
 
 ---
 
