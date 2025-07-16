@@ -35,7 +35,7 @@ I'm a master's student in Cybernetics at NTNU, passionate about software develop
 
 ## Featured Projects
 
-- [TED Talk Generator](https://github.com/dfosli/ted-talk-generator) – Generates speech-ready TED talks using AI and Azure TTS  
+- [TED Talk Generator](https://github.com/dfosli/tedTalk-maker) – Generates speech-ready TED talks using AI and Azure TTS  
 
 ---
 
